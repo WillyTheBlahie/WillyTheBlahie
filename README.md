@@ -1,4 +1,4 @@
-#Hi, I’m @WillyTheBlahie
+# Hi, I’m @WillyTheBlahie
 - 👀 I’m interested in C++ programming
 - 🌱 I’m currently learning basic C++ and OpenGL
 - 💞️ I’m looking to collaborate on small games
